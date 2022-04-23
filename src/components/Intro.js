@@ -66,7 +66,11 @@ justify-content: space-evenly;
 
 }
 
-
+@media (max-width: 768px) {
+    h1{
+        font-size : 18px;
+    }
+  }
 
 `
 

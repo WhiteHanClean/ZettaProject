@@ -7,7 +7,7 @@ const Box = styled.div`
 display:flex;
 cursor:pointer;
 position:fixed;
-left:8rem;
+right:2em;
 top:3rem;
 z-index:10;
 
@@ -75,7 +75,8 @@ const SoundBar = () => {
 
             <audio src={music} ref={ref}  loop />
         </Box>
-    )
+    ) 
 }
 
 export default SoundBar
+
