@@ -3,17 +3,17 @@
 export const lightTheme = {
 
     body:"#FCF6F4",
-    text:"#000000",
+    text:"black",
     fontFamily:"'Source Sans Pro', sans-serif",
-    bodyRgba : "252, 246, 244",
-    textRgba:"0,0,0",
+    bodyRgba : "#FCF6F4",
+    textRgba:"#1B24AF",
 }
 
 export const DarkTheme = {
 
     body:"#000000",
-    text:"#FCF6F4",
+    text:"white",
     fontFamily:"'Source Sans Pro', sans-serif",
-    textRgba : "252, 246, 244",
-    bodyRgba:"0,0,0",
+    textRgba : "white",
+    bodyRgba:"#000000",
 }

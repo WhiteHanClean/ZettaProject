@@ -74,9 +74,9 @@ const AboutPage = () => {
         <Main>
         I'm a front-end developer located in Kyrgyztan.
 <br /> <br/>
-Я люблю кодить ))) Из курсов прошел курсы : Минина , Камасутры, Ulbi, курсы из Udemy
+I am a developer who follows trends and respects quality.  I am always looking for new opportunities for professional growth.  I am a great team player, but I can also make good individual contributions.  My soft skills: responsible, neat, I like self-development, easy-going
 <br/> <br/>
-Мой девиз: Айба кот 24
+ Не стыдно быть тупым, стыдно им оставаться :)
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />

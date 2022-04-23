@@ -96,7 +96,12 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> История мест работ
 </Title>
 <Description>
-Neobis
+
+<strong>Neobis</strong>
+<li>
+    2 месяца прокачивал учеников в должности ассиста 
+    </li>
+    
 </Description>
 <Description>
 <strong>Makers</strong>
@@ -104,16 +109,14 @@ Neobis
     <li>
     3 месяца занимался трекерством учеников 
     </li>
-    <li>
-    1 месяц преподовал как ментор 
-    </li>
+    
 </ul>
 </Description>
 <Description>
 <strong> Starnavi</strong>
 <ul>
     <li>
-    Углубленное изучение TypeScript, Next, React и разработкой сайтов
+    Углубленное изучение TypeScript, Next, React 
     </li>
     
 </ul>
@@ -125,13 +128,19 @@ Neobis
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
- 1.5 года разработки
+<strong> Zetta Soft </strong>
+<ul>
+    <li>
+    Ментор и разработка внутренних сайтов компании
+    </li>
+    
+</ul>
+
 </Description>
 <Description>
 <strong>Стек технологий</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, GIT, Firebase, TypeScript, Next js, Node Js,
-Express, C#, Blender, C++
+Html, Css, Js, React, Redux, Sass, Bootstrap, GIT, Firebase, TypeScript, Next js
 </p>
 </Description>
 <Description>

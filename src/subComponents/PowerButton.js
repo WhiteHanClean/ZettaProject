@@ -8,16 +8,16 @@ import { PowerBtn } from '../components/AllSvgs'
 
 const Power = styled.button`
 position: fixed;
-top: 2rem;
+top: 1.5rem;
 left: 50%;
 transform: translate(-50%, 0);
 
-background-color: #FCF6F4;
+background-color: ##1B24AF;
 padding: 0.3rem;
 border-radius: 50%;
-border: 1px solid #000;
-width: 2.5rem;
-height: 2.5rem;
+border: 1px solid #1B24AF;
+width: 3.5rem;
+height: 3.5rem;
 
 display: flex;
 justify-content: center;
@@ -27,8 +27,8 @@ z-index:3;
 cursor: pointer;
 
 &:hover{
-    background-color: rgba(0,255,0,0.4);
-    box-shadow: 0 0 8px 6px rgba(0,255,0,0.2);
+    background-color: rgba(27, 36, 175, 0.2);
+    box-shadow: 0 0 8px 6px rgba(27, 36, 175, 0.2);;
 }
 
 &>*:first-child{

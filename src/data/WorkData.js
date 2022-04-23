@@ -3,31 +3,32 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Bench Soft",
+        description:"Build, expand and control your business with us",
+        tags:["react", "html", "css", "sass", "js", "next"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://bench-soft.vercel.app/",
+        github:"https://github.com/DanilBond/BenchSoft"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"Ta Train Inc",
+        description:"Your adventure starts here , Long-haul trucking that you can trust",
+        tags:["react","sass", "framer-motion", "html", "css", "js", "next"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://trains-inc.vercel.app/",
+        github:"https://github.com/tarieltairov/zs"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Liga Heroes",
+        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
+        tags:["react","styledComponents","next", "framer-motion", "firebase", "redux"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://hero-app-doni-gg1.vercel.app/",
+        github:"/"
+       
     },
     {
         id:4,

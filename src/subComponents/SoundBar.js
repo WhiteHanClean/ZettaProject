@@ -40,7 +40,7 @@ const play = keyframes`
 }
 `
 const Line = styled.span`
-background: ${props => props.theme.text};
+background:#1B24AF;
 border: 1px solid ${props => props.theme.body};
 
 animation:${play} 1s ease infinite;

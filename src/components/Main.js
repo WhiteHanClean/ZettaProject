@@ -39,7 +39,7 @@ z-index:1;
 const BLOG = styled(NavLink)`
 color: ${props => props.theme.text};
 position: absolute;
-top: 50%;
+top: 52%;
 right: calc(1rem + 2vw);
 transform: rotate(90deg) translate(-50%, -50%);
 text-decoration: none;
@@ -162,7 +162,7 @@ const Main = () => {
                     Say hi..
                 </motion.h2>
             </Contact> */}
-            <BLOG to="/blog">
+            <BLOG to="/skills">
                 <motion.h2
                 initial={{
                     y:-200,
@@ -175,7 +175,7 @@ const Main = () => {
                 whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Blog
+                    Skills.
                 </motion.h2>
             </BLOG>
             <WORK to="/work" click={+click}>
@@ -211,7 +211,7 @@ const Main = () => {
                     About.
                 </motion.h2>
             </ABOUT>
-            <SKILLS to="/skills">
+            {/* <SKILLS to="/skills">
                 <motion.h2
                 initial={{
                     y:200,
@@ -226,7 +226,7 @@ const Main = () => {
                 >
                     My Skills.
                 </motion.h2>
-            </SKILLS>
+            </SKILLS> */}
 
             </BottomBar>
 
